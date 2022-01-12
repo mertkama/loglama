@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\4-11_Loglama\4-11_Loglama\obj\Debug\4-11_Loglama.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\4-11_Loglama\4-11_Loglama\bin\Debug\4-11_Loglama.exe.config
+C:\Users\Can\Desktop\4-11_Loglama\4-11_Loglama\bin\Debug\4-11_Loglama.exe
+C:\Users\Can\Desktop\4-11_Loglama\4-11_Loglama\bin\Debug\4-11_Loglama.pdb
+C:\Users\Can\Desktop\4-11_Loglama\4-11_Loglama\obj\Debug\4-11_Loglama.exe
+C:\Users\Can\Desktop\4-11_Loglama\4-11_Loglama\obj\Debug\4-11_Loglama.pdb
+C:\Users\Can\Desktop\4-11_Loglama\4-11_Loglama\obj\Debug\4-11_Loglama.csprojAssemblyReference.cache

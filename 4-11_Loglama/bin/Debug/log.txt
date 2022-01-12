@@ -1,0 +1,15 @@
+Can
+08.12.2018 19:09
+Input string was not in a correct format.   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at _4_11_Loglama.Program.Loglama() in C:\Users\Can\Desktop\4-11_Loglama\4-11_Loglama\Program.cs:line 22
+*****************
+Can
+08.12.2018 19:10
+Bu sayı olmaz   at _4_11_Loglama.Program.Loglama() in C:\Users\Can\Desktop\4-11_Loglama\4-11_Loglama\Program.cs:line 26
+*****************
+Can
+08.12.2018 19:11
+Bu sayı olmaz   at _4_11_Loglama.Program.Loglama() in C:\Users\Can\Desktop\4-11_Loglama\4-11_Loglama\Program.cs:line 26
+*****************
